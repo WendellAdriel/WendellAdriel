@@ -21,3 +21,7 @@ Mentored dozens of Devs 🎓
 ## Blog
 
 I write some articles every now and then on **[my website](https://wendelladriel.com)**
+
+## Support my work
+
+[![Github](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/WendellAdriel)
