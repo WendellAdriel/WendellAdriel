@@ -14,14 +14,6 @@ Mentored dozens of Devs 🎓
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/wendell_adriel.svg?style=social&label=Follow%20%40wendell_adriel)](https://twitter.com/wendell_adriel)
 
-## Subscribe to my Newsletter
-
-[![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://laraletter.substack.com)
-
 ## Blog
 
 I write some articles every now and then on **[my website](https://wendelladriel.com)**
-
-## Support my work
-
-[![Github](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/WendellAdriel)
