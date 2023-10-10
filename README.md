@@ -2,18 +2,16 @@
 
 My name is **Wendell Adriel**!
 
-Web Artisan specialized in **PHP/Laravel** 😎
+Software Engineer 💻
 
 Open Source Enthusiast 🔥
 
-13+ years of XP in Web-Dev 🤘
+Building solutions since 2009 🚀
 
-Mentored dozens of Devs 🎓
-
-## Follow me on Twitter
+## Follow me on Twitter/X
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/wendell_adriel.svg?style=social&label=Follow%20%40wendell_adriel)](https://twitter.com/wendell_adriel)
 
 ## Blog
 
-I write some articles every now and then on **[my website](https://wendelladriel.com)**
+I write articles every now and then for **[my blog](https://wendelladriel.com)**
