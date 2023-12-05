@@ -2,11 +2,12 @@
 
 My name is **Wendell Adriel**!
 
-Software Engineer 💻
+Software Architect at TrackStreet 💻
+
+Technical Content Writer ✍️
 
 Open Source Enthusiast 🔥
 
-Building solutions since 2009 🚀
 
 ## Follow me on Twitter/X
 
